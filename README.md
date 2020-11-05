@@ -1,4 +1,4 @@
-### Deep Learning Basic for KISA
+### Data Analysis Basic for KISA
 
 > Data Analysis Introduction
 * KISA 데이터 분석 강의용 저장소입니다.
